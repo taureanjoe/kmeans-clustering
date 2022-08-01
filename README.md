@@ -16,7 +16,7 @@ Project Steps
 * Plot the clusters from the algorithm
 * Compare performance to the scikit-learn algorithm
 
-## K-means overview
+# K-means overview
 
 K-means is an unsupervised machine learning technique that allow us to cluster data points. This enables us to find patterns in the data that can help us analyze it more effectively. K-means is an iterative algorithm, which means that it will converge to the optimal clustering over time.
 
