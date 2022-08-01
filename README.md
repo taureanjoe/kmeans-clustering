@@ -1,12 +1,7 @@
 # K-Means Clustering
 
-<p align="center">
-  
-
-
 # ![fifa2022](https://i0.wp.com/gnova.com.ar/wp-content/uploads/2021/10/ea-fifa-22-cover-kylian-mbappe_1qeaco87s803l13iu0tnr84jhq.jpg)
   
-  </p>
 
 Building a K-means clustering algorithm from scratch and using it to cluster the FIFA22 data.
 
