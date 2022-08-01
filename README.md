@@ -1,4 +1,5 @@
-# kmeans-clustering
+# K-Means Clustering
+![fifa2022](https://storage.googleapis.com/kaggle-datasets-images/1617785/2659800/c06a7a3de61a874af446f350118ca9ca/dataset-cover.jpg?t=2021-09-28-18-06-09)
 Building a K-means clustering algorithm from scratch and using it to cluster the FIFA22 data.
 
 Clustering is an unsupervised machine learning technique that can find patterns in your data. K-means is one of the most popular forms of clustering.
